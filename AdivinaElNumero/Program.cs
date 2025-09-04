@@ -58,7 +58,10 @@ namespace AdivinaElNumero
                     Console.WriteLine("Te quedan: " + vidas + " vidas");
                 }
 
-                if (numeroUsuario == numeroAleatorio)
+                
+            }
+            
+            if (numeroUsuario == numeroAleatorio)
                 {
                     Console.WriteLine("Felicidades, has adivinado el numero en " + intentos + " intentos!");
                     break;
@@ -68,8 +71,6 @@ namespace AdivinaElNumero
                     Console.WriteLine("Lo siento, has perdido. El numero era: " + numeroAleatorio);
                     break;
                 }
-            }
-            
         }
     }
 }
