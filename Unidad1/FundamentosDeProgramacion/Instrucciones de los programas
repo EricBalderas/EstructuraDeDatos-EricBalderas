@@ -1,0 +1,13 @@
+En el programa 1:
+Nos pedira ingresar la temperatura en grados celsius 
+El programa hara la conversion (Celsius * 9 / 5 )+ 32
+y mostrara el resultado en grados fahrenheit
+
+
+en el programa 2, nos pedira ingresar el area de un circulo
+Despues hara los calculos de Pi * radio al Cuadrado.
+Y mostrara el area del circulo.
+
+NOTA: para poder ver el codigo del archivo ingresa al buscador del navegador dentro de la pagina y se vera un link/enlace como este:
+https://github.com/EricBalderas/EstructuraDeDatos-EricBalderas/new/main/Unidad1/FundamentosDeProgramacion
+Donde dice github.com el .com lo cambiamos por .dev y se cambiara el github web normal a uno muy parecido a visual studio code.
